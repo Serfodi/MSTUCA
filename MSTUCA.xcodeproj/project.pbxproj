@@ -40,7 +40,7 @@
 		B035992B2D3C135700C782C0 /* Exceptions for "MSTUCA" folder in "MSTUCA" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
-				Info.plist,
+				Info/Info.plist,
 			);
 			target = B03599022D3C135100C782C0 /* MSTUCA */;
 		};
@@ -310,7 +310,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = VJ7AN5PN54;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = MSTUCA/Info.plist;
+				INFOPLIST_FILE = MSTUCA/Info/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = "МГТУ ГА";
 				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.utilities";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
@@ -344,7 +344,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = VJ7AN5PN54;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = MSTUCA/Info.plist;
+				INFOPLIST_FILE = MSTUCA/Info/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = "МГТУ ГА";
 				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.utilities";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
